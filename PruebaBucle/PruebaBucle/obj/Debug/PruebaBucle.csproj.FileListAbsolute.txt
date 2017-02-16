@@ -1,0 +1,17 @@
+c:\users\gabrielm\documents\visual studio 2012\Projects\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.exe.config
+c:\users\gabrielm\documents\visual studio 2012\Projects\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.csprojResolveAssemblyReference.cache
+c:\users\gabrielm\documents\visual studio 2012\Projects\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.exe
+c:\users\gabrielm\documents\visual studio 2012\Projects\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.pdb
+c:\users\gabrielm\documents\visual studio 2012\Projects\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.exe
+c:\users\gabrielm\documents\visual studio 2012\Projects\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.pdb
+C:\sonar-examples\prueba06022017\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.exe.config
+C:\sonar-examples\prueba06022017\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.exe
+C:\sonar-examples\prueba06022017\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.pdb
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.exe.config
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.exe
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.pdb
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.exe
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.pdb
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.exe.CodeAnalysisLog.xml
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\bin\Debug\PruebaBucle.exe.lastcodeanalysissucceeded
+C:\sonar-examples\prueba06022017\src\PruebaBucle\PruebaBucle\obj\Debug\PruebaBucle.csprojResolveAssemblyReference.cache
